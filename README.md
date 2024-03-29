@@ -1,2 +1,1 @@
-# Projet Github
- 
+simple calculator using Phython Tkinter UI 
